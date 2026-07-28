@@ -47,17 +47,6 @@
       "note": ""
     },
     {
-      "id": 6,
-      "nome": "Tita",
-      "prezzo_preventivato": 100.0,
-      "prezzo_confermato": 100.0,
-      "spese_produzione": 35.0,
-      "stato": "Confermato",
-      "data_creazione": "2026-07-28 16:50",
-      "data_conferma": "2026-07-28 16:52",
-      "note": ""
-    },
-    {
       "id": 7,
       "nome": "Jeans Schello",
       "prezzo_preventivato": 100.0,
