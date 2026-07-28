@@ -36,17 +36,6 @@
       "note": ""
     },
     {
-      "id": 2,
-      "nome": "Emma Porcu",
-      "prezzo_preventivato": 170.0,
-      "prezzo_confermato": 10.0,
-      "spese_produzione": 30.0,
-      "stato": "Confermato",
-      "data_creazione": "2026-07-27 13:21",
-      "data_conferma": "2026-07-27 13:53",
-      "note": ""
-    },
-    {
       "id": 3,
       "nome": "Emma Porcu",
       "prezzo_preventivato": 170.0,
