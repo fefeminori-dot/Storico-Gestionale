@@ -38,11 +38,11 @@
       "id": 4,
       "nome": "tony",
       "prezzo_preventivato": 140.0,
-      "prezzo_confermato": null,
+      "prezzo_confermato": 170.0,
       "spese_produzione": 100.0,
-      "stato": "Preventivato",
+      "stato": "Confermato",
       "data_creazione": "2026-07-28 11:25",
-      "data_conferma": null,
+      "data_conferma": "2026-07-28 11:25",
       "note": ""
     }
   ],
