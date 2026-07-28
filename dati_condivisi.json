@@ -78,6 +78,17 @@
       "data_creazione": "2026-07-28 11:45",
       "data_conferma": "2026-07-28 11:46",
       "note": "Bellissima stupenda"
+    },
+    {
+      "id": 6,
+      "nome": "Tita",
+      "prezzo_preventivato": 100.0,
+      "prezzo_confermato": null,
+      "spese_produzione": 35.0,
+      "stato": "Preventivato",
+      "data_creazione": "2026-07-28 16:50",
+      "data_conferma": null,
+      "note": ""
     }
   ],
   "impegni": [
@@ -93,6 +104,6 @@
     }
   ],
   "prossimo_id_spesa": 3,
-  "prossimo_id_vendita": 6,
+  "prossimo_id_vendita": 7,
   "prossimo_id_impegno": 2
 }
