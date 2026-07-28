@@ -5,10 +5,10 @@
       "nome": "Teesuto Lino",
       "categoria": "Materiali",
       "prezzo_preventivato": 80.0,
-      "prezzo_confermato": null,
-      "stato": "Preventivato",
+      "prezzo_confermato": 85.0,
+      "stato": "Confermato",
       "data_creazione": "2026-07-28 11:27",
-      "data_conferma": null,
+      "data_conferma": "2026-07-28 11:28",
       "note": ""
     }
   ],
