@@ -94,11 +94,11 @@
       "id": 12,
       "nome": "Cintura verde boro",
       "prezzo_preventivato": 70.0,
-      "prezzo_confermato": null,
+      "prezzo_confermato": 100.0,
       "spese_produzione": 7.0,
-      "stato": "Preventivato",
+      "stato": "Confermato",
       "data_creazione": "2026-07-28 17:53",
-      "data_conferma": null,
+      "data_conferma": "2026-07-28 17:53",
       "note": ""
     }
   ],
