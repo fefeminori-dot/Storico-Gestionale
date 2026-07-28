@@ -89,6 +89,17 @@
       "data_creazione": "2026-07-28 17:52",
       "data_conferma": "2026-07-28 17:52",
       "note": ""
+    },
+    {
+      "id": 12,
+      "nome": "Cintura verde boro",
+      "prezzo_preventivato": 70.0,
+      "prezzo_confermato": null,
+      "spese_produzione": 7.0,
+      "stato": "Preventivato",
+      "data_creazione": "2026-07-28 17:53",
+      "data_conferma": null,
+      "note": ""
     }
   ],
   "impegni": [
@@ -104,6 +115,6 @@
     }
   ],
   "prossimo_id_spesa": 3,
-  "prossimo_id_vendita": 12,
+  "prossimo_id_vendita": 13,
   "prossimo_id_impegno": 2
 }
