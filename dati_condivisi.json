@@ -69,17 +69,6 @@
       "note": "Pantalone lino baggy"
     },
     {
-      "id": 5,
-      "nome": "Chiary mia beduina",
-      "prezzo_preventivato": 10000.0,
-      "prezzo_confermato": 10000.0,
-      "spese_produzione": 10.0,
-      "stato": "Confermato",
-      "data_creazione": "2026-07-28 11:45",
-      "data_conferma": "2026-07-28 11:46",
-      "note": "Bellissima stupenda"
-    },
-    {
       "id": 6,
       "nome": "Tita",
       "prezzo_preventivato": 100.0,
