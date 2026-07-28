@@ -61,11 +61,11 @@
       "id": 9,
       "nome": "Cappello pescatore Fede Libre",
       "prezzo_preventivato": 60.0,
-      "prezzo_confermato": null,
+      "prezzo_confermato": 100.0,
       "spese_produzione": 10.0,
-      "stato": "Preventivato",
+      "stato": "Confermato",
       "data_creazione": "2026-07-28 17:50",
-      "data_conferma": null,
+      "data_conferma": "2026-07-28 17:52",
       "note": ""
     },
     {
