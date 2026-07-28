@@ -1,5 +1,17 @@
 {
-  "spese": [],
+  "spese": [
+    {
+      "id": 1,
+      "nome": "Teesuto Lino",
+      "categoria": "Materiali",
+      "prezzo_preventivato": 80.0,
+      "prezzo_confermato": null,
+      "stato": "Preventivato",
+      "data_creazione": "2026-07-28 11:27",
+      "data_conferma": null,
+      "note": ""
+    }
+  ],
   "vendite": [
     {
       "id": 1,
@@ -47,7 +59,7 @@
     }
   ],
   "impegni": [],
-  "prossimo_id_spesa": 1,
+  "prossimo_id_spesa": 2,
   "prossimo_id_vendita": 5,
   "prossimo_id_impegno": 1
 }
