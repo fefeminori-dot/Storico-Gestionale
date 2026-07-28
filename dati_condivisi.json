@@ -36,17 +36,6 @@
       "note": ""
     },
     {
-      "id": 3,
-      "nome": "Emma Porcu",
-      "prezzo_preventivato": 170.0,
-      "prezzo_confermato": 170.0,
-      "spese_produzione": 30.0,
-      "stato": "Confermato",
-      "data_creazione": "2026-07-27 13:22",
-      "data_conferma": "2026-07-28 17:49",
-      "note": ""
-    },
-    {
       "id": 7,
       "nome": "Jeans Schello",
       "prezzo_preventivato": 100.0,
