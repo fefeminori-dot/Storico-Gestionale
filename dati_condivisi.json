@@ -58,17 +58,6 @@
       "note": ""
     },
     {
-      "id": 4,
-      "nome": "tony",
-      "prezzo_preventivato": 140.0,
-      "prezzo_confermato": 170.0,
-      "spese_produzione": 100.0,
-      "stato": "Confermato",
-      "data_creazione": "2026-07-28 11:25",
-      "data_conferma": "2026-07-28 11:25",
-      "note": "Pantalone lino baggy"
-    },
-    {
       "id": 6,
       "nome": "Tita",
       "prezzo_preventivato": 100.0,
