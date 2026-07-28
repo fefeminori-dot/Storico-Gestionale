@@ -50,11 +50,11 @@
       "id": 8,
       "nome": "Jeans Ettore Sorrentino",
       "prezzo_preventivato": 100.0,
-      "prezzo_confermato": null,
+      "prezzo_confermato": 100.0,
       "spese_produzione": 35.0,
-      "stato": "Preventivato",
+      "stato": "Confermato",
       "data_creazione": "2026-07-28 17:48",
-      "data_conferma": null,
+      "data_conferma": "2026-07-28 17:49",
       "note": ""
     }
   ],
