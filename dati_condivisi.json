@@ -80,8 +80,19 @@
       "note": "Bellissima stupenda"
     }
   ],
-  "impegni": [],
+  "impegni": [
+    {
+      "id": 1,
+      "titolo": "Fidansata Chiary",
+      "data": "2026-07-28",
+      "ora": "12:00",
+      "note": "",
+      "prodotto_id": null,
+      "completato": false,
+      "data_creazione": "2026-07-28 11:48"
+    }
+  ],
   "prossimo_id_spesa": 3,
   "prossimo_id_vendita": 6,
-  "prossimo_id_impegno": 1
+  "prossimo_id_impegno": 2
 }
