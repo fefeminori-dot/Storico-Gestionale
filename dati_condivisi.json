@@ -67,10 +67,21 @@
       "data_creazione": "2026-07-28 11:25",
       "data_conferma": "2026-07-28 11:25",
       "note": "Pantalone lino baggy"
+    },
+    {
+      "id": 5,
+      "nome": "Chiary mia beduina",
+      "prezzo_preventivato": 10000.0,
+      "prezzo_confermato": null,
+      "spese_produzione": 10.0,
+      "stato": "Preventivato",
+      "data_creazione": "2026-07-28 11:45",
+      "data_conferma": null,
+      "note": ""
     }
   ],
   "impegni": [],
   "prossimo_id_spesa": 3,
-  "prossimo_id_vendita": 5,
+  "prossimo_id_vendita": 6,
   "prossimo_id_impegno": 1
 }
