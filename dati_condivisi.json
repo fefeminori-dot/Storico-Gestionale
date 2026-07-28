@@ -33,10 +33,21 @@
       "data_creazione": "2026-07-27 13:22",
       "data_conferma": null,
       "note": ""
+    },
+    {
+      "id": 4,
+      "nome": "tony",
+      "prezzo_preventivato": 140.0,
+      "prezzo_confermato": null,
+      "spese_produzione": 100.0,
+      "stato": "Preventivato",
+      "data_creazione": "2026-07-28 11:25",
+      "data_conferma": null,
+      "note": ""
     }
   ],
   "impegni": [],
   "prossimo_id_spesa": 1,
-  "prossimo_id_vendita": 4,
+  "prossimo_id_vendita": 5,
   "prossimo_id_impegno": 1
 }
