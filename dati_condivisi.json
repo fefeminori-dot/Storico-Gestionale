@@ -10,6 +10,17 @@
       "data_creazione": "2026-07-28 11:27",
       "data_conferma": "2026-07-28 11:28",
       "note": ""
+    },
+    {
+      "id": 2,
+      "nome": "Affitto",
+      "categoria": "Utenze",
+      "prezzo_preventivato": 200.0,
+      "prezzo_confermato": null,
+      "stato": "Preventivato",
+      "data_creazione": "2026-07-28 11:32",
+      "data_conferma": null,
+      "note": ""
     }
   ],
   "vendite": [
@@ -59,7 +70,7 @@
     }
   ],
   "impegni": [],
-  "prossimo_id_spesa": 2,
+  "prossimo_id_spesa": 3,
   "prossimo_id_vendita": 5,
   "prossimo_id_impegno": 1
 }
